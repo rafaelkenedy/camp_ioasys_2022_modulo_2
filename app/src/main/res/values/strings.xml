@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Camp Ioasys 2022</string>
     <string name="login">Login</string>
+    <string name="request_location_permission">Você precisa dar permissão de localização!</string>
 </resources>
